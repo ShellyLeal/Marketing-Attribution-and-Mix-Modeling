@@ -19,4 +19,15 @@ This linear regression shows how we can use a single variable and create an expr
 
 ![Correlation](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/Correlation%20.png)
 
-With this file you may explore about positive and negative correlation between variables and how to use these analysis to predict a certain outcome based on how the behavior of one variable interferes in **the value of the other.
+With this file you may explore about positive and negative correlation between variables and how to use these analysis to predict a certain outcome based on how the behavior of one variable interferes in the value of the other.
+
+**Multivariable regression: Building your marketing mix model - 02_04_multi_regression_begin.xlsx**
+
+![Multivariate](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/multivariate.png)
+
+![Error %](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/Error%20%25.png)
+
+![Interference](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/interference.png)
+
+With this exercise you will discover how to create a model with multiple variables that might interfere in the final revenue of your marketing model. You may also check the error of this model and discover if your predicted revenue is similar to the actual obtained result.
+
