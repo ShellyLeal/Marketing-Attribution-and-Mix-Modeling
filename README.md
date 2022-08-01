@@ -39,4 +39,11 @@ With this exercise you will discover how to create a model with multiple variabl
 
 With this file you will learn about what happens when you include adstock and diminishing returns as coefficients to transform the features and how does it affect the values over time as well as its impact in the revenue.
 
+**Statistical tests to validate your model's accuracy - 02_06_statistical_tests_begin.xlsx**
+
+![P Value](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/p%20value.png)
+
+With this file you will work with more advanced statistical functions that will help you understand which variables are relevant for your model by using tools such as F-Test and Jarque Bera Test.
+
+
 
