@@ -31,3 +31,12 @@ With this file you may explore about positive and negative correlation between v
 
 With this exercise you will discover how to create a model with multiple variables that might interfere in the final revenue of your marketing model. You may also check the error of this model and discover if your predicted revenue is similar to the actual obtained result.
 
+**Feature transformation with diminishing returns and adstocks - 02_05_feature_transform_begin.xlsx**
+
+![Newspaper Ads](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/Newspaper%20Ads.png)
+
+![Revenue from Social Ads vs. Weekly Spend](https://github.com/ShellyLeal/Marketing-Attribution-and-Mix-Modeling/blob/main/graphs/Revenue%20from%20Social%20Ads%20vs.%20Weekly%20Spend.png)
+
+With this file you will learn about what happens when you include adstock and diminishing returns as coefficients to transform the features and how does it affect the values over time as well as its impact in the revenue.
+
+
